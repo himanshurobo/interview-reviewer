@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Reviewer"
+  short_description: "Evidence-based resume and JD review"
+  default_prompt: "Review my resume against this job description and produce the complete hiring report."

@@ -1,0 +1,20 @@
+{
+  "name": "interview-reviewer",
+  "owner": {
+    "name": "Himanshu"
+  },
+  "metadata": {
+    "description": "Open-source skills for AI-assisted career preparation.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "interview-reviewer",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "description": "Review resumes against job descriptions and prepare candidates for interviews."
+    }
+  ]
+}
